@@ -1,0 +1,18 @@
+re
+numpy
+pandas
+scikit-learn
+skopt
+statsmodels
+umap
+import requests
+import pandas as pd
+beautifulsoup4
+seaborn
+matplotlib
+gower
+plotly
+xgboost
+shap
+selenium
+webdriver-manager
