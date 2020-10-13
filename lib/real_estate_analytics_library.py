@@ -43,18 +43,20 @@ def process_records(property_records):
         lambda x: str(x))
     property_records.loc[property_records['property_type'].isna() == False, 'property_type'] = property_records[
         'property_type'].apply(lambda x: str(x))
-    property_records['property_postcode'] = property_records['property_address'].apply(
-        lambda s: re.findall(r'[0-9]{4}', s)[0])
     property_records.loc[property_records['rooms'].isna() == True, 'rooms'] = property_records[
         'rooms'].dropna().median()
-    property_records.loc[property_records['gross_rent'].isna() == True, 'gross_rent'] = property_records[
+    if 'gross_rent' in property_records.columns:
+        property_records.loc[property_records['gross_rent'].isna() == True, 'gross_rent'] = property_records[
         'gross_rent'].dropna().mean()
+    else:
+        property_records.loc[property_records['property_price'].isna() == True, 'property_price'] = property_records[
+            'property_price'].dropna().mean()
     property_records.loc[property_records['living_space'].isna() == True, 'living_space'] = property_records[
         'living_space'].dropna().mean()
     property_records.loc[property_records['property_postcode'].isna() == True, 'property_postcode'] = property_records[
         'property_postcode'].dropna().mode()
     property_records.loc[property_records['floor'].isna() == True, 'floor'] = property_records[
-        'floor'].dropna().mode().values.astype(str)
+        'floor'].dropna().mode().values.astype(str)[0]
     property_records.loc[property_records['property_type'].isna() == True, 'property_type'] = property_records[
         'property_type'].dropna().mode().values.astype(str)
     property_records.loc[property_records['public_transport'].isna() == True, 'public_transport'] = property_records[
@@ -66,8 +68,12 @@ def process_records(property_records):
     encoder = OneHotEncoder().fit(property_records[['property_postcode', 'floor', 'property_type']])
 
     # save encoder as pickle file
-    with open('data/encoder.pickle', 'wb') as handle:
-        pickle.dump(encoder, handle)
+    if 'gross_rent' in property_records.columns:
+        with open('data/encoder.pickle', 'wb') as handle:
+            pickle.dump(encoder, handle)
+    else:
+        with open('data/encoder_purchase.pickle', 'wb') as handle:
+            pickle.dump(encoder, handle)
 
     encoding = pd.DataFrame(
         encoder.transform(property_records[['property_postcode', 'floor', 'property_type']]).toarray(),
