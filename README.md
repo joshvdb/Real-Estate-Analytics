@@ -16,4 +16,4 @@ The requirements file can be installed using the below commands in a terminal:
 
 ## TODO
 
-Add additional hyperparamter optimization functions.
+Add additional hyperparamter optimization functions, error terms.
