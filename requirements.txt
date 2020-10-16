@@ -14,5 +14,3 @@ gower
 plotly
 xgboost
 shap
-selenium
-webdriver-manager
