@@ -16,4 +16,4 @@ The requirements file can be installed using the below commands in a terminal:
 
 ## TODO
 
-Add additional hyperparamter optimization functions, explicitly state error terms to the user in the price calculation.
+Add additional hyperparamter optimization functions.
