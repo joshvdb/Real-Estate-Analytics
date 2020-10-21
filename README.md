@@ -13,7 +13,3 @@ The requirements file can be installed using the below commands in a terminal:
 **Conda:** conda install --file requirements.txt
 
 **Pip:** pip install -r requirements.txt
-
-## TODO
-
-Add additional hyperparamter optimization functions.
