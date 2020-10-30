@@ -33,6 +33,10 @@ def process_records(property_records):
     :return: pd.DataFrame
     """
 
+    if 'gross_rent' in property_records.columns:
+        property_records = property_records[property_records['gross_rent'].notna()].reset_index(drop=True)
+    else:
+        property_records = property_records[property_records['property_price'].notna()].reset_index(drop=True)
     property_records['property_postcode'] = property_records['property_address'].apply(
         lambda s: re.findall(r'[0-9]{4}', s)[0])
     property_records.loc[property_records['floor'].isna() == False, 'floor'] = property_records['floor'].apply(
@@ -45,12 +49,6 @@ def process_records(property_records):
         'property_type'].apply(lambda x: str(x))
     property_records.loc[property_records['rooms'].isna() == True, 'rooms'] = property_records[
         'rooms'].dropna().median()
-    if 'gross_rent' in property_records.columns:
-        property_records.loc[property_records['gross_rent'].isna() == True, 'gross_rent'] = property_records[
-        'gross_rent'].dropna().mean()
-    else:
-        property_records.loc[property_records['property_price'].isna() == True, 'property_price'] = property_records[
-            'property_price'].dropna().mean()
     property_records.loc[property_records['living_space'].isna() == True, 'living_space'] = property_records[
         'living_space'].dropna().mean()
     property_records.loc[property_records['property_postcode'].isna() == True, 'property_postcode'] = property_records[
@@ -192,12 +190,12 @@ def optimize(x, y, model_type, kf):
 
     # select the hyperparameters and their corresponding prior distributions according to the model type.
     if model_type[0] in ['XGBRFRegressor', 'RandomForestRegressor', 'ExtraTreesRegressor', 'GradientBoostingRegressor']:
-        hyperparameter_list = {'n_estimators': Integer(1, 50, prior='uniform'),
-                               'max_depth': Integer(1, 20, prior='uniform')}
+        hyperparameter_list = {'n_estimators': Integer(1, 100, prior='log-uniform'),
+                               'max_depth': Integer(1, 20, prior='log-uniform')}
     elif model_type[0] == 'AdaBoostRegressor':
-        hyperparameter_list = {'n_estimators': Integer(1, 50, prior='uniform')}
+        hyperparameter_list = {'n_estimators': Integer(1, 100, prior='log-uniform')}
     elif model_type[0] == 'DecisionTreeRegressor':
-        hyperparameter_list = {'max_depth': Integer(1, 20, prior='uniform')}
+        hyperparameter_list = {'max_depth': Integer(1, 20, prior='log-uniform')}
     elif model_type[0] in ['Lasso', 'Ridge', 'LassoLars', 'ElasticNet']:
         hyperparameter_list = {'alpha': Real(0, 1, prior='uniform')}
 
