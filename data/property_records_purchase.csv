@@ -1,125 +1,125 @@
 ,property_address,property_type,property_price,living_space,rooms,floor,available_date,public_transport,motorway,shop
-0,"Brandschenkestrasse, 8002 Zürich",Apartment,,,2.5,,,,,
-1,8004 Zürich,Apartment,,98.0,3.5,,,,,
-2,8046 Zürich,Apartment,1385000.0,118.0,3.5,,,,,500.0
-3,"Zürich, 8052 Zürich",Semi-detached house,1290000.0,135.0,5.5,,Immediately,,915.0,385.0
-4,"Tuchmacherstrasse 76, 8041 Zürich",Apartment,1590000.0,118.0,4.5,1. floor,,,,
-5,"Schaffhauserstrasse 308, 8050 Zürich",Commercial property,55000.0,35.0,1.0,,,,,25.0
-6,8052 Zürich,Single-family house,1650000.0,400.0,11.0,,Immediately,,,
-7,"Schaffhauserstrasse 308, 8050 Zürich",Commercial property,55000.0,35.0,1.5,,By arrangement,25.0,,25.0
-8,"Buchzelgstrasse 50 / 52, 8053 Zürich",Apartment,1230000.0,95.0,2.5,,31/05/2022,250.0,,200.0
-9,"Buchzelgstrasse 50 / 52, 8053 Zürich",Apartment,1520000.0,119.0,4.5,,31/05/2022,250.0,,200.0
-10,"Turbinenstrasse 60, 8005 Zürich",Apartment,1550000.0,77.0,2.5,15. floor,,,,
-11,"Hochstrasse 20, 8044 Zürich",Multi-family house,6000000.0,,,,,300.0,,500.0
-12,"Lavaterstrasse 63, 8002 Zürich ZH",Apartment,,,2.0,1. floor,15/10/2020,,,
-13,"Im Tobelacker 13a, 8044 Gockhausen",Apartment,1050000.0,112.0,4.5,Ground floor,,,,
-14,"Hohlstrasse 480, 8048 Zürich ZH",Underground garage,,,,,Immediately,100.0,500.0,100.0
-15,8048 Zürich,Single-family house,,160.0,6.5,,By arrangement,500.0,3000.0,300.0
-16,8001 Zürich,Other,173000000.0,,,,,,,
-17,"Schwandenholzstrasse 256, 8052 Zürich",Maisonette,1100000.0,104.0,3.5,4. floor,01/11/2020,,,
-18,8050 Zürich,Apartment,4200000.0,420.0,,,04/10/2021,,,
-19,"Michael-Maggi-Strasse 1, 8046 Zürich",Apartment,2800000.0,285.0,6.5,5. floor,By arrangement,,,
-20,8002 Zürich,Apartment,,132.0,4.5,2. floor,,,,
-21,"Pfingstweidstrasse 98, 8005 Zürich",Apartment,,127.0,3.5,19. floor,By arrangement,,,
-22,"Lenggstrasse 1, 8008 Zürich",Apartment,3410000.0,190.0,5.5,,By arrangement,,,
-23,8002 Zürich,Apartment,3790000.0,170.0,4.5,,,,,
-24,"Dufourstrasse, 8008 Zürich",Multi-family house,,908.0,,,By arrangement,200.0,,250.0
-25,8001 Zürich,Villa,,500.0,10.5,,,,,
-26,"Meisenrain 24, 8044 Gockhausen",Single-family house,2075000.0,160.0,5.5,,By arrangement,,,
-27,"Furttalstrasse 11, 8046 Zürich",Apartment,,,,,,100.0,1000.0,330.0
-28,"Heidwiesen 15/17/19, 8051 Zürich",Apartment,,112.0,4.5,4. floor,,350.0,2300.0,620.0
-29,8049 Zürich,Apartment,980000.0,65.0,2.5,Ground floor,,,,
-30,"Zürich, 8041 Zürich",Apartment,1345000.0,110.0,3.5,Ground floor,Immediately,276.0,1177.0,326.0
-31,"Zürich, 8041 Zürich",Apartment,1345000.0,110.0,3.5,,Immediately,,1177.0,326.0
-32,"Tuchmacherstrasse 70, 8041 Zürich",Apartment,1575000.0,138.0,5.5,Ground floor,Immediately,100.0,2000.0,380.0
-33,8048 Zürich,Building land,8600000.0,,,,By arrangement,,,
-34,"Zürich, 8052 Zürich",Apartment,1290000.0,78.0,2.5,16. floor,01/05/2021,197.0,1372.0,110.0
-35,8006 Zürich,Single-family house,4950000.0,129.0,4.5,,By arrangement,,,
-36,"Im Isengrind 11, 8046 Zürich",Apartment,545000.0,76.0,3.5,6. floor,Immediately,,,
-37,8002 Zürich,Loft,,88.0,2.5,Ground floor,By arrangement,,,
-38,"Dachslernstrasse 45, 8048 Zürich",Apartment,790000.0,99.0,3.5,Ground floor,By arrangement,,,
-39,"Sonneggstrasse 42, 8006 Zürich",Apartment,590000.0,36.0,1.0,1. floor,By arrangement,230.0,3600.0,470.0
-40,8000 Zürich,Other,1.0,,,,,,,
-41,"Hadlaubstrasse, 8006 Zürich",Apartment,2250000.0,100.0,3.5,1. floor,01/04/2021,,,
-42,8001 Zürich,Single-family house,5500000.0,210.0,8.0,,By arrangement,,,
-43,"Regensdorferstrasse 82, 8049 Zürich",Apartment,1240000.0,76.0,3.5,1. floor,Immediately,,,
-44,"Regensdorferstrasse 82, 8049 Zürich",Apartment,1180000.0,71.0,3.5,1. floor,Immediately,,,
-45,"Eichrainstrasse 27, 8052 Zürich",Attic apartment,2110000.0,146.0,4.5,4. floor,By arrangement,,,
-46,"Eichrainstrasse 27, 8052 Zürich",Apartment,1390000.0,111.0,4.5,1. floor,By arrangement,,,
-47,"Eichrainstrasse 27, 8052 Zürich",Apartment,2260000.0,159.0,6.5,Ground floor,By arrangement,,,
-48,"Eichrainstrasse 27, 8052 Zürich",Apartment,1970000.0,140.0,5.5,,By arrangement,,,
-49,"Eichrainstrasse 27, 8052 Zürich",Apartment,1000000.0,86.0,3.5,1. floor,By arrangement,,,
-50,"Zürich, 8038 Zürich",Multi-family house,6300000.0,,,,Immediately,46.0,1227.0,115.0
-51,"Bahnhofplatz, 8001 Zürich",Commercial land,,,,,By arrangement,,,
-52,8002 Zürich,Multi-family house,2800000.0,,23.0,,By arrangement,,,
-53,"Eichrainstrasse 21, 8052 Zürich",Apartment,1050000.0,100.0,3.5,1. floor,Immediately,,,
-54,"Zürich, 8038 Zürich",Multi-family house,2723000.0,,,,By arrangement,103.0,1065.0,114.0
-55,"Hauswiesenstrasse 19, 8049 Zürich",Maisonette,3590000.0,227.0,6.5,3. floor,01/03/2022,200.0,4800.0,450.0
-56,8032 Zürich,Commercial property,350000.0,,,,,,,
-57,"Witikonerstrasse 480, 8053 Zürich",Apartment,1500000.0,124.0,3.5,1. floor,,,,
-58,8001 Zürich,Commercial property,62000000.0,,,,,,,
-59,8001 Zürich,Commercial property,37000000.0,,,,,,,
-60,8001 Zürich,Commercial property,70000000.0,,,,,,,
-61,"Oerlikonerstr. 50, 8057 Zürich",Commercial property,550000.0,,3.5,Ground floor,,500.0,1.0,
-62,"Bremgartnerstrasse 31, 8003 Zürich",Maisonette,1945000.0,130.0,4.5,Ground floor,,,,
-63,"Sonnenbergstrasse 92, 8032 Zürich",Villa,,272.0,7.5,Ground floor,,,,
-64,8032 Zürich,Maisonette,3820000.0,223.0,6.5,1. floor,01/06/2021,,,
-65,"Zürich, 8008 Zürich",Loft,2190000.0,75.0,2.5,3. floor,01/04/2021,238.0,,276.0
-66,"Frohbühlstrasse 3, 8052 Zürich",Apartment,485000.0,42.0,2.0,2. floor,,200.0,,300.0
-67,"Roswiesenstrasse 159, 8051 Zürich",Apartment,649000.0,65.0,3.5,Basement,By arrangement,10.0,1500.0,570.0
-68,"Dialogweg 7, 8050 Zürich",Commercial property,120000.0,,3.0,Ground floor,,,,
-69,"Buchzelgstrasse 21, 8053 Zürich",Apartment,495000.0,45.0,1.5,1. floor,,,,
-70,8041 Zürich ZH,Loft,,140.0,3.5,3. floor,By arrangement,,,
-71,8002 Zürich,Commercial property,3000000.0,,,,Immediately,,,
-72,8000 Zürich,Other,,,,,,,,
-73,"Birmensdorfstrasse 169, 8003 Zürich",Commercial property,595000.0,,,,By arrangement,,,
-74,"Rümlangstrasse 51, 8052 Zürich ZH",Apartment,1999000.0,135.0,4.5,1. floor,By arrangement,,,
-75,"Lehfrauenweg 10, 8053 Zürich",Commercial property,,,3.0,Ground floor,,,,301.0
-76,"Schwandenacker 41, 8052 Zürich",Commercial property,30000.0,,,,,,,
-77,8049 Zürich,Apartment,1290000.0,85.0,2.5,1. floor,01/05/2022,,,
-78,8049 Zürich,Apartment,1030000.0,77.0,2.5,Ground floor,01/05/2022,,,
-79,"angenehme City- und Seenähe, 8038 Zürich",Attic apartment,,201.0,5.5,,Immediately,,,
-80,8050 Zürich,Attic apartment,820000.0,65.0,3.0,,Immediately,,,
-81,"Restelbergstrasse 71/71a, 8044 Zürich",Apartment,2150000.0,118.0,4.5,1. floor,01/04/2022,,,
-82,"Restelbergstrasse 71/71a, 8044 Zürich",Apartment,1870000.0,106.0,3.5,Ground floor,01/04/2022,,,
-83,8044 Gockhausen,Single-family house,2850000.0,400.0,7.5,,By arrangement,,,
-84,"Zürich, 8046 Zürich",Apartment,1320000.0,155.0,5.0,2. floor,Immediately,101.0,1856.0,1018.0
-85,"Zeltweg 16, 8032 Zürich",Commercial property,1600000.0,,,Ground floor,,,,
-86,"Althoosstrasse, 8046 Zürich",Apartment,,35.0,1.5,Ground floor,,70.0,2700.0,400.0
-87,"Rümlangstrasse, 8052 Zürich",Attic apartment,1999000.0,135.0,4.5,,By arrangement,,,
-88,"Restelbergstrasse 71/71a, 8044 Zürich",Apartment,1500000.0,84.0,2.5,Ground floor,01/04/2022,,,
-89,8000 Zürich,Commercial property,,,,,,,,
-90,"Ferdinand-Hodler-Strasse 5, 8049 Zürich",Apartment,920000.0,63.0,2.5,,Immediately,340.0,3500.0,390.0
-91,8003 Zürich,Other,198000.0,,,,,,,
-92,"Zürich, 8053 Zürich",Apartment,1380000.0,123.0,5.5,1. floor,By arrangement,,,
-93,"Zürich, 8053 Zürich",Apartment,2310000.0,123.0,5.5,1. floor,By arrangement,141.0,,174.0
-94,8038 Zürich,Commercial property,790000.0,,,,,,,
-95,8000 Zürich,Multi-family house,50000.0,,,,Immediately,,,
-96,8021 Zürich 1,Single-family house,,,,,,,,
-97,8005 Zürich,Apartment,8360000.0,304.0,6.0,,By arrangement,,,
-98,"Schützenrain 4a, 8047 Zürich",Apartment,2095000.0,129.0,4.5,1. floor,01/03/2022,,,
-99,"Michael-Maggi-Strasse 3, 8046 Zürich",Apartment,1450000.0,129.0,4.5,3. floor,Immediately,,,
-100,"Hauswiesenstrasse 15, 8049 Zürich",Penthouse,1645000.0,111.0,3.5,3. floor,01/03/2022,200.0,4800.0,450.0
-101,8044 Zürich,Single-family house,,582.0,11.0,,By arrangement,,,
-102,"Zürich, 8048 Zürich",Apartment,2250000.0,163.0,4.5,2. floor,By arrangement,55.0,733.0,277.0
-103,8001 Zürich,Commercial property,,,3.0,Ground floor,By arrangement,,,
-104,8006 Zürich,Commercial property,170000.0,,,,,100.0,100.0,
-105,"Hohlstrasse 452, 8048 Zürich",Commercial property,,,,,,,,
-106,"Rümlangstrasse 51, 8052 Zürich",Attic apartment,1999000.0,138.0,4.5,1. floor,By arrangement,,,
-107,8006 Zürich,Villa,,311.0,6.5,,,300.0,,400.0
+0,8032 Zürich,Apartment,1390000.0,54.0,2.5,2. floor,By arrangement,,,
+1,"Binzallee 22, 8055 Zürich",Apartment,870000.0,114.0,3.5,,By arrangement,,,
+2,8041 Zürich,Loft,,140.0,3.0,3. floor,,,,
+3,8052 Zürich,"Parking space, garage",35000.0,,,,,,,
+4,8005 Zürich,Commercial property,680000.0,290.0,,3. floor,Immediately,,,
+5,"Schwammendingenstrasse, 8050 Zürich",Commercial property,80000.0,,2.5,Ground floor,Immediately,,,52.0
+6,"Wibichstrasse 91, 8037 Zürich",Multi-family house,6950000.0,,,,,,,
+7,"Eichstrasse 6, 8045 Zürich",Maisonette,,154.0,5.5,5. floor,,,,
+8,8000 Zürich,Apartment,,,3.0,,By arrangement,,,
+9,8001 Zürich,Commercial property,149000.0,,,,,,,
+10,"Drusbergstr. 54, 8053 Zürich",Apartment,2150000.0,,4.5,1. floor,Immediately,,,
+11,"Nordstrasse 369, 8037 Zürich",Attic apartment,2970000.0,140.0,4.5,4. floor,By arrangement,,,
+12,"Idaplatz 10, 8003 Zürich",Apartment,1650000.0,,4.0,4. floor,30/06/2021,350.0,,500.0
+13,"Waffenplatzstrasse 36, 8002 Zürich",Multi-family house,6300000.0,532.0,,,By arrangement,110.0,1400.0,20.0
+14,"Leutschenbachstrasse 52, 8050 Zürich",Apartment,1700000.0,154.0,4.5,4. floor,Immediately,,,
+15,"Rümlangstrasse 72, 8052 Zürich",Attic apartment,1590000.0,110.0,3.5,5. floor,,55.0,900.0,272.0
+16,"Eichrainstrasse 27, 8052 Zürich",Apartment,1370000.0,107.0,4.5,1. floor,By arrangement,,,
+17,8006 Zürich,Semi-detached house,3740000.0,222.0,8.5,,By arrangement,,,
+18,"Glattalstrasse 33, 8052 Zürich",Attic apartment,1890000.0,120.0,4.5,,,100.0,800.0,250.0
+19,8006 Zürich,Apartment,3500000.0,150.0,4.5,,Immediately,,,
+20,"Regensdorferstrasse 60, 8049 Zürich",Apartment,3485000.0,192.0,5.5,3. floor,01/10/2022,250.0,2000.0,600.0
+21,"Regensdorferstrasse 60, 8049 Zürich",Apartment,1760000.0,127.0,4.5,1. floor,01/10/2022,250.0,2000.0,600.0
+22,"Regensdorferstrasse 60, 8049 Zürich",Apartment,1670000.0,121.0,3.5,1. floor,01/10/2022,250.0,2000.0,600.0
+23,"Regensdorferstrasse 60, 8049 Zürich",Apartment,1570000.0,99.0,3.5,Ground floor,01/10/2022,250.0,2000.0,600.0
+24,"Gämsenstrasse 5, 8006 Zürich",Commercial property,22900.0,45.0,2.5,Basement,Immediately,,,
+25,"Katzenbachstrasse 213, 8052 Zürich",Apartment,985000.0,83.0,2.5,2. floor,,100.0,500.0,200.0
+26,8004 Zürich,Apartment,,98.0,3.5,Ground floor,By arrangement,100.0,1900.0,200.0
+27,"Heinrich-Wolff-Strasse 8, 8046 Zürich",Apartment,1385000.0,118.0,3.5,,By arrangement,,,500.0
+28,8046 Zürich,Apartment,1385000.0,118.0,3.5,,,,,
+29,"Zürich, 8052 Zürich",Semi-detached house,1290000.0,135.0,5.5,,Immediately,115.0,915.0,385.0
+30,"Tuchmacherstrasse 76, 8041 Zürich",Apartment,1590000.0,118.0,4.5,1. floor,By arrangement,,,
+31,"Schaffhauserstrasse 308, 8050 Zürich",Commercial property,55000.0,35.0,1.0,,,,,25.0
+32,8052 Zürich,Single-family house,1650000.0,400.0,11.0,,Immediately,,,
+33,"Schaffhauserstrasse 308, 8050 Zürich",Commercial property,55000.0,35.0,1.5,,By arrangement,25.0,,25.0
+34,"Turbinenstrasse 60, 8005 Zürich",Apartment,1550000.0,77.0,2.5,15. floor,,,,
+35,"Hohlstrasse 480, 8048 Zürich ZH",Underground garage,,,,,Immediately,100.0,500.0,100.0
+36,8048 Zürich,Single-family house,,160.0,6.5,,By arrangement,500.0,3000.0,300.0
+37,8001 Zürich,Other,173000000.0,,,,,,,
+38,"Schwandenholzstrasse 256, 8052 Zürich",Maisonette,1100000.0,104.0,3.5,3. floor,01/11/2020,,,
+39,8050 Zürich,Apartment,4200000.0,420.0,,,04/10/2021,,,
+40,"Michael-Maggi-Strasse 1, 8046 Zürich",Apartment,2800000.0,285.0,6.5,5. floor,By arrangement,,,
+41,"Pfingstweidstrasse 98, 8005 Zürich",Apartment,,127.0,3.5,19. floor,By arrangement,,,
+42,"Lenggstrasse 1, 8008 Zürich",Apartment,3410000.0,190.0,5.5,,By arrangement,,,
+43,8002 Zürich,Apartment,3790000.0,170.0,4.5,,,,,
+44,8001 Zürich,Villa,,500.0,10.5,,,,,
+45,"Furttalstrasse 11, 8046 Zürich",Apartment,,,,,,100.0,1000.0,330.0
+46,"Heidwiesen 15/17/19, 8051 Zürich",Apartment,,112.0,4.5,4. floor,,350.0,2300.0,620.0
+47,"Zürich, 8041 Zürich",Apartment,1345000.0,110.0,3.5,Ground floor,Immediately,276.0,1177.0,326.0
+48,"Zürich, 8041 Zürich",Apartment,1345000.0,110.0,3.5,,Immediately,,1177.0,326.0
+49,8048 Zürich,Building land,8600000.0,,,,By arrangement,,,
+50,"Zürich, 8052 Zürich",Apartment,1290000.0,78.0,2.5,16. floor,01/05/2021,197.0,1372.0,110.0
+51,8006 Zürich,Single-family house,4950000.0,129.0,4.5,,By arrangement,,,
+52,"Dachslernstrasse 45, 8048 Zürich",Apartment,790000.0,99.0,3.5,Ground floor,By arrangement,,,
+53,"Schärenfeld 30, 8052 Zürich",Single-family house,880000.0,81.0,4.0,,Immediately,150.0,1500.0,190.0
+54,8000 Zürich,Other,1.0,,,,,,,
+55,8001 Zürich,Single-family house,5500000.0,210.0,8.0,,By arrangement,,,
+56,"Zürich, 8046 Zürich",Apartment,1320000.0,155.0,5.0,2. floor,Immediately,101.0,1856.0,1018.0
+57,"Regensdorferstrasse 82, 8049 Zürich",Apartment,1240000.0,76.0,3.5,1. floor,Immediately,,,
+58,"Regensdorferstrasse 82, 8049 Zürich",Apartment,1180000.0,71.0,3.5,1. floor,Immediately,,,
+59,"Eichrainstrasse 27, 8052 Zürich",Attic apartment,2110000.0,146.0,4.5,4. floor,By arrangement,,,
+60,8052 Zürich,Apartment,1390000.0,111.0,4.5,1. floor,,,,
+61,"Eichrainstrasse 27, 8052 Zürich",Apartment,2260000.0,159.0,6.5,Ground floor,By arrangement,,,
+62,"Eichrainstrasse 27, 8052 Zürich",Apartment,1970000.0,140.0,5.5,,By arrangement,,,
+63,"Eichrainstrasse 27, 8050 Zürich",Apartment,1000000.0,86.0,3.5,1. floor,By arrangement,,,
+64,"Zürich, 8038 Zürich",Multi-family house,6300000.0,,,,Immediately,46.0,1227.0,115.0
+65,"Bahnhofplatz, 8001 Zürich",Commercial land,,,,,By arrangement,,,
+66,8002 Zürich,Multi-family house,2800000.0,,23.0,,By arrangement,,,
+67,"Zürich, 8038 Zürich",Multi-family house,2723000.0,,,,By arrangement,103.0,1065.0,114.0
+68,"Hauswiesenstrasse 19, 8049 Zürich",Maisonette,3590000.0,227.0,6.5,3. floor,01/03/2022,200.0,4800.0,450.0
+69,"Witikonerstrasse 480, 8053 Zürich",Apartment,1500000.0,124.0,3.5,1. floor,,,,
+70,8001 Zürich,Commercial property,62000000.0,,,,,,,
+71,8001 Zürich,Commercial property,37000000.0,,,,,,,
+72,8001 Zürich,Commercial property,70000000.0,,,,,,,
+73,"Oerlikonerstr. 50, 8057 Zürich",Commercial property,550000.0,,3.5,Ground floor,,500.0,1.0,
+74,"exklusive Top-Adresse an ruhiger und sonniger Lage, 8032 Zürich",Villa,,300.0,8.5,,By arrangement,,,
+75,"Bremgartnerstrasse 31, 8003 Zürich",Maisonette,1945000.0,130.0,4.5,Ground floor,,,,
+76,"Brandschenkestrasse 76, 8002 Zürich",Apartment,1349000.0,88.0,2.5,Ground floor,,,,
+77,8032 Zürich,Maisonette,3820000.0,223.0,6.5,1. floor,01/06/2021,,,
+78,"Alfred-Escher-Strasse 27, 8002 Zürich",Commercial property,450000.0,,,Ground floor,By arrangement,100.0,1500.0,100.0
+79,"Roswiesenstrasse 159, 8051 Zürich",Apartment,649000.0,65.0,3.5,Basement,By arrangement,10.0,1500.0,570.0
+80,"Dialogweg 7, 8050 Zürich",Commercial property,120000.0,,3.0,Ground floor,,,,
+81,8041 Zürich,Loft,,140.0,3.5,3. floor,By arrangement,,,
+82,8002 Zürich,Single-family house,3000000.0,380.0,2.0,,,,,
+83,8000 Zürich,Other,,,,,,,,
+84,"Rümlangstrasse, 8052 Zürich",Attic apartment,1999000.0,135.0,4.5,,By arrangement,,,
+85,"Lehfrauenweg 10, 8053 Zürich",Commercial property,,,3.0,Ground floor,,,,301.0
+86,"Schwandenacker 41, 8052 Zürich",Commercial property,30000.0,,,,,,,
+87,8049 Zürich,Apartment,1290000.0,85.0,2.5,1. floor,01/05/2022,,,
+88,8049 Zürich,Apartment,1030000.0,77.0,2.5,Ground floor,01/05/2022,,,
+89,8048 Zürich,Apartment,2250000.0,163.0,4.5,2. floor,,,,
+90,"angenehme City- und Seenähe, 8038 Zürich",Attic apartment,,201.0,5.5,,Immediately,,,
+91,"Restelbergstrasse 71/71a, 8044 Zürich",Apartment,2150000.0,118.0,4.5,1. floor,01/07/2022,,,
+92,"Restelbergstrasse 71/71a, 8044 Zürich",Apartment,1870000.0,106.0,3.5,Ground floor,01/07/2022,,,
+93,8044 Gockhausen,Single-family house,,400.0,7.5,,By arrangement,,,
+94,"Zeltweg 16, 8032 Zürich",Commercial property,1600000.0,,,Ground floor,,,,
+95,"Althoosstrasse, 8046 Zürich",Apartment,,35.0,1.5,Ground floor,,70.0,2700.0,400.0
+96,"Restelbergstrasse 71/71a, 8044 Zürich",Apartment,1500000.0,84.0,2.5,Ground floor,01/07/2022,,,
+97,8000 Zürich,Commercial property,,,,,,,,
+98,"Ferdinand-Hodler-Strasse 5, 8049 Zürich",Apartment,920000.0,63.0,2.5,,Immediately,340.0,3500.0,390.0
+99,8003 Zürich,Other,198000.0,,,,,,,
+100,8000 Zürich,Multi-family house,50000.0,,,,Immediately,,,
+101,8021 Zürich 1,Single-family house,,,,,,,,
+102,8005 Zürich,Apartment,8360000.0,304.0,6.0,,By arrangement,,,
+103,"Michael-Maggi-Strasse 3, 8046 Zürich",Apartment,1450000.0,129.0,4.5,3. floor,Immediately,,,
+104,"Hauswiesenstrasse 15, 8049 Zürich",Penthouse,1645000.0,111.0,3.5,3. floor,01/03/2022,200.0,4800.0,450.0
+105,8044 Zürich,Single-family house,,582.0,11.0,,By arrangement,,,
+106,8001 Zürich,Commercial property,,,3.0,Ground floor,By arrangement,,,
+107,"Rümlangstrasse 51, 8052 Zürich",Attic apartment,1999000.0,138.0,4.5,1. floor,By arrangement,,,
 108,8044 Gockhausen,Single-family house,2150000.0,160.0,5.5,,,,,
 109,"Pfingstweidstrasse 98, 8005 Zürich",Apartment,,135.0,2.5,,Immediately,,,
-110,"Regensdorfstrasse, 8049 Zürich",Commercial property,70000.0,,,,,,,
-111,"Zürich, 8005 Zürich",Apartment,3450000.0,198.0,4.5,20. floor,Immediately,104.0,1415.0,252.0
-112,8005 Zürich,Apartment,,,4.5,22. floor,By arrangement,,,
-113,8046 Zürich,Other,35937.0,,,,,,,
-114,8001 Zürich,Commercial property,2550000.0,95.0,,,,,,
-115,"Turbinenstrasse 18, 8005 Zürich",Apartment,,140.0,3.5,,By arrangement,,,
-116,8038 Zürich,Commercial property,2200000.0,,35.0,1. floor,By arrangement,,,
-117,8002 Zürich,Multi-family house,13000000.0,700.0,,,By arrangement,75.0,800.0,250.0
-118,"Leutschenbachstrasse 48, 8050 Zürich",Maisonette,1430000.0,128.0,3.5,Ground floor,,300.0,3000.0,1000.0
-119,"Grossraum Zürich, 8001 Zürich",Commercial property,5500000.0,,6.5,,,,,
-120,8046 Zürich,Attic apartment,,320.0,7.5,,,,,
+110,"Zürich, 8005 Zürich",Apartment,3450000.0,198.0,4.5,20. floor,Immediately,104.0,1415.0,252.0
+111,8005 Zürich,Apartment,,,4.5,22. floor,By arrangement,,,
+112,8046 Zürich,Other,35937.0,,,,,,,
+113,8001 Zürich,Commercial property,2550000.0,95.0,,,,,,
+114,8005 Zürich,Apartment,,,3.5,16. floor,By arrangement,,,
+115,8038 Zürich,Commercial property,2200000.0,,35.0,1. floor,By arrangement,,,
+116,8002 Zürich,Multi-family house,13000000.0,700.0,,,By arrangement,75.0,800.0,250.0
+117,"Leutschenbachstrasse 48, 8050 Zürich",Maisonette,1430000.0,128.0,3.5,Ground floor,,300.0,3000.0,1000.0
+118,"Grossraum Zürich, 8001 Zürich",Commercial property,5500000.0,,6.5,,,,,
+119,8046 Zürich,Attic apartment,,320.0,7.5,,,,,
+120,8000 Zürich,Multi-family house,5500000.0,,,,By arrangement,,,
 121,8052 Zürich,Commercial property,,,,,,,,
 122,"Leutschenbachstrasse 46, 8050 Zürich",Maisonette,1930000.0,136.0,3.5,16. floor,,300.0,3000.0,1000.0
 123,"Leutschenbachstrasse 46, 8050 Zürich",Maisonette,2140000.0,154.0,4.5,16. floor,,300.0,3000.0,1000.0
