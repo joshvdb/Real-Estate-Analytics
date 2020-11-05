@@ -16,4 +16,4 @@ The requirements file can be installed using the below commands in a terminal:
 
 ## TODO
 
-Add time-series analysis tools to the program, such as a date stamp for property listings, and time-series graphs, to allow a user to analyse the change in property prices with time. While the Swiss property market is generally stable, this tool could prove useful during periods of high volatility, or when applied to the property markets of other countries.
+1. Add time-series analysis tools to the program, such as a date stamp for property listings, and time-series graphs, to allow a user to analyse the change in property prices with time. While the Swiss property market is generally stable, this tool could prove useful during periods of high volatility, or when applied to the property markets of other countries.
